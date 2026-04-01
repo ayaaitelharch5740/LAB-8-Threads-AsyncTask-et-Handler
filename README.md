@@ -104,5 +104,6 @@ L'interface contient :
 
 ## 📸 Captures d'écran
 
-<p align="center">
-  <img src="1.PNG" width="45%" />
+<p align="center"><img width="182" height="400" alt="1" src="https://github.com/user-attachments/assets/a2d1014e-4607-42ed-a964-4367e77f48ec" />
+
+ 
